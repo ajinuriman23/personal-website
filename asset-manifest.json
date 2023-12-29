@@ -1,13 +1,22 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.dc5f05dd.css",
-    "main.js": "/personal-website/static/js/main.a3243b80.js",
+    "main.js": "/personal-website/static/js/main.1f9062af.js",
+    "static/media/product8.jpeg": "/personal-website/static/media/product8.7cd99874a7fba052523d.jpeg",
+    "static/media/product3.jpg": "/personal-website/static/media/product3.8a193c8d2edb49b37a47.jpg",
+    "static/media/product6.jpg": "/personal-website/static/media/product6.918b1e794f4c1da4107a.jpg",
+    "static/media/product5.jpg": "/personal-website/static/media/product5.17a7df66801fd4545399.jpg",
+    "static/media/product7.jpg": "/personal-website/static/media/product7.467ffd145c9a4c31b7b5.jpg",
+    "static/media/phone-mockup.png": "/personal-website/static/media/phone-mockup.c817333d8ca56d6624f0.png",
+    "static/media/product2.jpeg": "/personal-website/static/media/product2.badfa8f69e5f17feacfa.jpeg",
+    "static/media/product4.jpg": "/personal-website/static/media/product4.349d9c4bd910ff6c71c1.jpg",
+    "static/media/product1.jpeg": "/personal-website/static/media/product1.97db09fdf6c9ec35c04a.jpeg",
     "index.html": "/personal-website/index.html",
     "main.dc5f05dd.css.map": "/personal-website/static/css/main.dc5f05dd.css.map",
-    "main.a3243b80.js.map": "/personal-website/static/js/main.a3243b80.js.map"
+    "main.1f9062af.js.map": "/personal-website/static/js/main.1f9062af.js.map"
   },
   "entrypoints": [
     "static/css/main.dc5f05dd.css",
-    "static/js/main.a3243b80.js"
+    "static/js/main.1f9062af.js"
   ]
 }
