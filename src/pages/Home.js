@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import CardSkeleton from '../components/CardSkeleton';
 import ProductImages from '../data/product-card';
+import Hero from '../img/phone-mockup.png';
  
 const Home = () => {
 
@@ -35,7 +36,7 @@ const Home = () => {
                     </a> 
                 </div>
                 <div class="pt-8 lg:lg-0 lg:mt-0 lg:col-span-5 lg:flex">
-                    <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/phone-mockup.png" alt="mockup"/>
+                    <img src={Hero} alt="mockup"/>
                 </div>                
             </div>
         </section>
