@@ -10,9 +10,7 @@ function App() {
    return (
        <BrowserRouter>
             <NavbarWithMegaMenu />
-            <Routes>
-              <Route path='/' element={<Home />} />
-            </Routes>
+            <Home />
             <Footer />
        </BrowserRouter>
    );
