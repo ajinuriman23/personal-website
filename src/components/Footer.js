@@ -129,7 +129,7 @@ const Footer = () => {
                                         <a href="#" class="inline-block leading-tight bg-blue-600 border border-blue-dark hover:bg-blue-700 px-3 py-2 text-white no-underline rounded">Need help?</a>
                                     </div>
                                 </div>
-                                <div class="text-grey text-center md:mr-4">&copy; 2017 Cointoad</div>
+                                <div class="text-grey text-center md:mr-4">&copy; 2023 Jii4Tech</div>
                             </div>
                         </div>
                     </div>
